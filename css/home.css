@@ -23,7 +23,7 @@ body{
     margin-left: auto;
     
     
-    background-image: url(../image/background.png);
+    background-image: url(./image/background.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
