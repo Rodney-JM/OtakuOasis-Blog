@@ -64,6 +64,9 @@
 }
 
 @media(max-width:800px){
+     .contato-grupos{
+        margin-top: -5rem;
+    }
     .right-text h3{
         font-size: 2rem ;
     }
