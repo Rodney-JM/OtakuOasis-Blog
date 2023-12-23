@@ -64,12 +64,9 @@ nav ul li:hover {
 @media (max-width: 767px){
     .header-content .logo{
         font-size: 1.5rem;
-        margin-left: -.5rem;
+        margin-left: -1rem;
     }
 
-    .header-content{
-        max-width: 80%;
-    }
 
     .redes li{
         font-size: 1rem;
