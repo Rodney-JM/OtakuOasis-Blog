@@ -67,6 +67,10 @@ nav ul li:hover {
         margin-left: -.5rem;
     }
 
+    .header-content{
+        max-width: 80%;
+    }
+
     .redes li{
         font-size: 1rem;
         margin-right: 1rem;
@@ -74,13 +78,13 @@ nav ul li:hover {
 
     .menu-button{
         display: block;
-        font-size: 1.5rem;
+        font-size: 1.5rem;margin-left: 0.5rem;
     }
     nav{
         position: absolute;
         background-color: #0E182C;
         width: 100%;
-        top: 71px;
+        top: 63px;
         display: none;
     }
 
