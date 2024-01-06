@@ -2,6 +2,8 @@
 .container-animes{
     position: relative;
     height: 800px;
+    max-height: 100%;
+    margin-bottom: 8rem;
     margin-top: 4rem;
 }
 
@@ -139,9 +141,12 @@
     right: 20px;
 }
 
-@media(max-width:767px){
+@media screen and (max-width:767px){
     .content-an{
         margin-left: -2rem;
+    }
+     .container-animes{
+       margin-bottom: 3rem;
     }
     .container-animes #prev{
         top: 60%;
@@ -165,3 +170,5 @@
         padding: 1rem;
     }
 }
+
+

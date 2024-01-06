@@ -7,7 +7,6 @@
 
 .animes-do-momento{
     height: 1400px;
-    background-image: radial-gradient(white, rgb(210, 210, 210));
     color: black;
 }
 
@@ -84,7 +83,7 @@
     transition: all 0.2s ease;
 }
 
-@media(max-width:767px){
+@media screen and (max-width:767px){
     .animes-do-momento{
         height: 4000px;
     }

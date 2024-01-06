@@ -65,7 +65,7 @@ body{
     font-weight: bold;
 }
 
-@media screen and(max-width: 767px){
+@media screen and (max-width: 767px){
     .home-page-content .title{
         font-size: 1.8rem;
     }
